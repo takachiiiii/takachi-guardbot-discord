@@ -1,12 +1,12 @@
 {
-  "name": "outlander-guard",
+  "name": "takachi-guard",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm start"
   },
-  "author": "Wéncy.",
+  "author": "Takachi.",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
